@@ -5,6 +5,18 @@
 
 /* Your custom CSS starts here */
 body {
-    background-color: blue;
-    color: red;
+    background-color: #1e3a8a; /* Nice dark blue */
+    color: #fef2f2; /* Soft red/white text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fecaca; /* Light red for headings */
+}
+
+a {
+    color: #fca5a5; /* Light red for links */
+}
+
+a:hover {
+    color: #f87171; /* Darker red on hover */
 }
